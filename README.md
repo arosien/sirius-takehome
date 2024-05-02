@@ -15,3 +15,5 @@ MyTests:
   + Query: Sports 0.0s
   + Query: Elton John 0.001s
 ```
+
+Total time spent: about 3.5 hours. Had to remember how to do Enumeratum for enums, Circe codec stuff, scala-cli stuff.
