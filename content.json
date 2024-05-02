@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "type": "channel",
+    "group": "playable",
+    "title": "Howard Stern 24/7"
+  },
+  {
+    "id": "2",
+    "type": "episode",
+    "group": "playable",
+    "title": "Howard Stern - Interview with Dave Grohl"
+  },
+  {
+    "id": "3",
+    "type": "episode",
+    "group": "playable",
+    "title": "Howard Stern - Metallica, Miley Cyrus, and Elton John"
+  },
+  {
+    "id": "4",
+    "type": "channel",
+    "group": "playable",
+    "title": "SiriusXM NFL Radio"
+  },
+  {
+    "id": "5",
+    "type": "show",
+    "group": "container",
+    "title": "Howard Stern"
+  },
+  {
+    "id": "6",
+    "type": "category",
+    "group": "container",
+    "title": "Sports"
+  }
+]
